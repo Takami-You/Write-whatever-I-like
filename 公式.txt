@@ -1,0 +1,1 @@
+=AVERAGE(OFFSET($A$1:$A$4,ROW()*4-4,,4))
